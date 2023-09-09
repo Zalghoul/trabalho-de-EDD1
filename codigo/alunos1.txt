@@ -1,0 +1,185 @@
+Ana Silva 8.5 9.2
+
+Pedro Santos 7.8 8.5
+
+Maria Oliveira 9.0 9.3
+
+João Pereira 6.5 7.2
+
+Sofia Alves 8.2 8.8
+
+Ricardo Ferreira 7.0 7.5
+
+Juliana Lima 9.5 9.8
+
+André Santos 8.8 9.0
+
+Laura Vieira 9.2 9.6
+
+Felipe Rodrigues 7.5 8.0
+
+Mariana Costa 8.6 8.3
+
+Guilherme Almeida 7.2 7.8
+
+Carolina Oliveira 9.8 9.5
+
+Eduardo Santos 8.0 8.2
+
+Beatriz Lima 6.8 7.5
+
+Gustavo Vieira 7.9 8.4
+
+Isabela Almeida 8.7 9.0
+
+Rafael Santos 7.2 8.1
+
+Fernanda Oliveira 9.3 9.6
+
+Lucas Pereira 6.2 6.9
+
+Mariana Alves 8.9 8.7
+
+Gustavo Ferreira 7.5 7.8
+
+Camila Lima 9.7 9.9
+
+André Santos 8.2 8.5
+
+Larissa Vieira 9.1 9.7
+
+Pedro Rodrigues 7.0 7.3
+
+Sofia Costa 8.3 8.6
+
+Lucas Almeida 6.8 7.1
+
+Gabriela Santos 9.4 9.8
+
+Mateus Oliveira 8.4 8.7
+
+Beatriz Lima 9.5 9.9
+
+Lúcia Santos 7.8 8.9
+
+Ricardo Almeida 6.5 7.4
+
+Fernanda Oliveira 8.9 9.1
+
+João Pereira 5.6 6.2
+
+Isabela Alves 9.3 9.5
+
+Miguel Ferreira 7.2 7.6
+
+Carolina Lima 9.0 9.3
+
+André Santos 8.1 8.4
+
+Lucas Vieira 9.6 9.8
+
+Pedro Rodrigues 6.8 7.2
+
+Sofia Costa 8.5 8.7
+
+Gustavo Almeida 7.1 7.4
+
+Larissa Santos 9.2 9.5
+
+Mateus Oliveira 8.2 8.6
+
+Beatriz Lima 9.7 9.9
+
+Gabriel Silva 8.2 8.9
+
+Luiza Santos 7.1 7.8
+
+Pedro Oliveira 9.5 9.3
+
+Carolina Pereira 6.9 7.2
+
+Lucas Alves 8.6 8.5
+
+Mariana Ferreira 7.8 7.6
+
+André Lima 9.3 9.7
+
+Isabela Santos 8.4 8.7
+
+Mateus Vieira 9.2 9.6
+
+Juliana Rodrigues 7.3 7.5
+
+Rafael Costa 8.9 8.8
+
+Sofia Almeida 7.5 7.3
+
+Lúcio Lima 9.1 9.4
+
+Maria Oliveira 8.1 8.6
+
+Gustavo Santos 9.6 9.8
+
+Ana Silva 8.5 9.0
+
+Rafael Santos 7.2 8.3
+
+Carolina Oliveira 9.1 9.5
+
+Gustavo Pereira 6.3 6.9
+
+Mariana Almeida 8.8 8.7
+
+André Ferreira 7.4 7.6
+
+Beatriz Lima 9.7 9.8
+
+Lucas Santos 8.0 8.4
+
+Isabela Vieira 9.3 9.7
+
+Pedro Rodrigues 7.1 7.5
+
+Sofia Costa 8.6 8.8
+
+Mateus Oliveira 7.2 7.4
+
+Fernanda Lima 9.2 9.6
+
+Ricardo Alves 8.3 8.6
+
+Larissa Santos 9.4 9.9
+
+Gabriel Pereira 7.0 7.3
+
+Ana Santos 8.7 9.2
+
+Rafael Almeida 7.4 8.1
+
+Carolina Oliveira 9.6 9.4
+
+Gustavo Pereira 6.1 6.9
+
+Mariana Costa 8.9 8.6
+
+André Ferreira 7.3 7.8
+
+Beatriz Lima 9.8 9.7
+
+Lucas Santos 8.2 8.5
+
+Isabela Vieira 9.5 9.8
+
+Pedro Rodrigues 7.2 7.4
+
+Sofia Costa 8.4 8.7
+
+Mateus Oliveira 7.6 7.9
+
+Fernanda Lima 9.3 9.6
+
+Ricardo Alves 8.0 8.3
+
+Larissa Santos 9.2 9.5
+
+Gabriel Pereira 7.5 7.8
